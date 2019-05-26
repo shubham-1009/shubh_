@@ -5,10 +5,10 @@ def subtract(x,y):
     pass
 
 def multiply(x,y):
-    return x*y
+    return a*b
 
 def divide(x,y):
-    return x*y
+   return a+b
 
 def square(x,y):
-    pass
+   return a-b
